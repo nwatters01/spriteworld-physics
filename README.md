@@ -8,8 +8,7 @@ generate simple videos of objects moving and interacting.
 
 Spriteworld is a python-based RL environment consisting of a 2-dimensional arena
 with simple shapes that can be moved around. See
-[https://github.com/deepmind/spriteworld]
-(https://github.com/deepmind/spriteworld) for a more detailed description.
+[https://github.com/deepmind/spriteworld] for a more detailed description.
 
 This library ignores the RL/agent aspect of Spriteworld, only using it for video
 generation. This library introduces a number of forces/dynamics into the
@@ -39,7 +38,7 @@ Star system. Stars orbiting a fixed center circle according to gravity. This
 demonstrates the use of a non-fully-connected interaction graph. See
 `configs/star_system.py` .
 
-![star_system_video](./gifs/colliding_springs.gif)
+![star_system_video](./gifs/star_system.gif)
 
 Colliding springs. Circles connected by springs that also collide with each
 other. This demonstrates the use of two force laws simultaneously. See
