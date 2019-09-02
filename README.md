@@ -51,13 +51,13 @@ other. This demonstrates the use of two force laws simultaneously. See
 Spriteworld can be installed through Github:
 
 ``` bash
-pip install git+https://github.com/deepmind/spriteworld.git
+pip install git+https://github.com/nwatters01/spriteworld-physics.git
 ```
 
 or alternatively by checking out a local copy of our repository and running:
 
 ``` bash
-git clone https://github.com/deepmind/spriteworld.git
+git clone https://github.com/nwatters01/spriteworld-physics.git
 pip install spriteworld/
 ```
 

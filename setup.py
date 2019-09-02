@@ -14,7 +14,7 @@ setup(
                  'consisting of a 2-dimensional arena with objects that obey '
                  'simple physical laws.'),
     author='Nicholas Watters',
-    url='https://github.com/nwatters/spriteworld-physics/',
+    url='https://github.com/nwatters01/spriteworld-physics/',
     license='Apache License, Version 2.0',
     keywords=[
         'ai',
