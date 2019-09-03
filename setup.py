@@ -10,7 +10,7 @@ from setuptools import setup
 setup(
     name='spriteworld-physics',
     version='1.0.1',
-    description=('Spriteworld physics is a python-based physics simulator '
+    description=('Spriteworld-Physics is a python-based physics simulator '
                  'consisting of a 2-dimensional arena with objects that obey '
                  'simple physical laws.'),
     author='Nicholas Watters',

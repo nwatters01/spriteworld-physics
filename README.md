@@ -48,7 +48,7 @@ other. This demonstrates the use of two force laws simultaneously. See
 
 ## Installation
 
-Spriteworld can be installed through Github:
+Spriteworld-Physics can be installed through Github:
 
 ``` bash
 pip install git+https://github.com/nwatters01/spriteworld-physics.git
@@ -58,7 +58,7 @@ or alternatively by checking out a local copy of our repository and running:
 
 ``` bash
 git clone https://github.com/nwatters01/spriteworld-physics.git
-pip install spriteworld/
+pip install spriteworld-physics/
 ```
 
 This last option additionally downloads the demo UI and an example gif
@@ -77,7 +77,7 @@ Once installed, you may familiarize yourself with Spriteworld-Physics through
 `run_demo.py` :
 
 ``` bash
-python /path/to/local/spriteworld/run_demo.py
+python /path/to/local/spriteworld-physics/run_demo.py
 ```
 
 This will run a system of objects interacting with springs and play a video of
